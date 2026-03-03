@@ -1,0 +1,4 @@
+Requisitos:
+1. Criar repositório no GitHub
+2. Fazer pelo menos 5 commits
+3. Documentar passos no README.md

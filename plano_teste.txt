@@ -1,0 +1,3 @@
+Planos de Teste:
+- Teste 1: Verificar funcionalidade básica
+- Teste 2: Validar requisitos
